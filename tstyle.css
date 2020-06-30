@@ -1,0 +1,142 @@
+.intro{
+	font-size: 200%;
+	text-align: center;
+	width: 450px;
+	padding-left: 530px;
+	/*float: left;*/
+	margin-bottom: 20px;
+}
+.img1{
+	float: left;
+	height: 200px;
+	width: 300px;
+}
+.img2{
+	float: right;
+	padding-top: none;
+	height: 205px;
+	width: 361.5px;
+	padding-left: 80px;
+}
+.img4{
+	float: right;
+	width:400px;
+	height: 300px;
+	padding-right: 130px;
+	padding-top: 50px;
+}
+.img4_caption{
+	float: right;
+	font-size: 200%;
+	color:blue;
+	padding-right: 130px;
+}
+#top{
+	background-color: lightgrey;
+	margin-left: 40px;
+	margin-right: 40px;
+	margin-top: 40px;
+	height:400px;
+}
+.quote1{
+	text-align: center;
+	color: blue;
+}
+/*#brief-table{
+	float: left;
+	border-collapse: collapse;
+	width:100%;
+	margin:auto;
+}*/
+#event-description{
+	float: left;
+	border-collapse: collapse;
+	width:100%;
+}
+#event-description td{
+	border:1px solid #ddd;
+	padding:8px;
+}
+#event-description tr:nth-child(even){
+	background-color: #f2f2f2;
+}
+#event-description tr:hover{
+	background-color: lightblue;
+}
+h3{
+	font-family: sans-serif;
+	/*color: grey;*/
+}
+#part2{
+	width: 800px;
+	margin-left: 40px; 
+}
+.heading2{
+	float: right;
+	color:black;
+	text-align:center;
+	font-family: sans-serif;
+	padding-right: 100px;
+	font-size: 150%;
+}
+h1{
+	font-size: 500%;
+	text-align: center;
+	font-family:georgian;
+}
+body{
+	margin-top: 60px;
+}
+.img3{
+	border:2px solid black;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+}
+.lifetime{
+	font-family: sans-serif;
+	text-align: center;
+	color: blue;
+}
+a{
+	color: blue;
+	text-decoration: underline;
+}
+a:hover{
+	color:purple;
+}
+.end{
+	text-align: center;
+	font-family: sans-serif;
+}
+.space{
+	text-align: center;
+	clear:left;
+	background-color: lightblue;
+	margin-left: 40px;
+	margin-right: 40px;
+	padding-top: 20px;
+	height:250px;
+
+}
+.quote2{
+	padding: 40px;
+	text-align: center;
+	font-family: sans-serif;
+}
+.earned-title{
+	font-family: sans-serif;
+	text-align: center;
+	color:blue;
+}
+.brief{
+	overflow: auto;
+	background-color: #f2f2f2;
+	border:1px solid blue;
+	float:right;
+	margin-right: 40px;
+	width:400px;
+}
+.ending{
+	text-align: center;
+}
